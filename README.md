@@ -26,7 +26,3 @@
 ## Objective
 
 To assist healthcare professionals in the early detection of pancreatic cancer and improve diagnostic accuracy using artificial intelligence.
-
-## ⚠️ Disclaimer
-
-This application is intended for **supportive diagnostic purposes only** and should not replace professional medical advice.
