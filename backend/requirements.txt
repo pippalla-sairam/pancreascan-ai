@@ -1,7 +1,0 @@
-flask
-flask-cors
-flask-bcrypt
-pymongo
-tensorflow
-pillow
-numpy
